@@ -267,6 +267,10 @@ header {
     margin: 0 auto;
     gap: 9px;
 }
+.menu-grid-btn:hover {
+    background-color: #F37335;
+    cursor: pointer;
+}
 .menu-grid-icon {
     background-image: url(../images/cart-menu.svg);
     background-size: 18px 18px;
