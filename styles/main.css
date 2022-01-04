@@ -671,7 +671,7 @@ header {
         margin-bottom: 30px;
     }
     .menu-grid {
-        gap: 25px 15px;
+        gap: 25px 5px;
         margin-bottom: 40px;
     }
     .menu-grid-cover {
@@ -704,7 +704,7 @@ header {
         height: 100%;
     }
     .menu-other .menu-grid-item {
-        flex: 0 0 38vw;
+        flex: 0 0 43vw;
     }
     .footer {
         margin-top: 28px;
@@ -734,6 +734,7 @@ header {
     }
     .footer-tel {
         grid-area: tel;
+        text-align: right;
     }
 }
 
