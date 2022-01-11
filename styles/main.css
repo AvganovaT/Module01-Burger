@@ -327,6 +327,7 @@ header {
     color: #FAF9F9;
     font-weight: 700;
     line-height: 24px;
+    padding-bottom: 8px;
 }
 .footer-list a {
     color: #DEDEDE;
@@ -614,6 +615,8 @@ header {
     }
     .footer-list + .footer-list-tel {
         display: block;
+        margin-top: 15px;
+
     }
 }
 
@@ -707,7 +710,7 @@ header {
         height: 100%;
     }
     .menu-other .menu-grid-item {
-        flex: 0 0 43vw;
+        flex: 0 0 42vw;
     }
     .footer {
         margin-top: 55px;
@@ -735,7 +738,7 @@ header {
     }
     .footer-item:nth-child(3) {
         grid-area: info;
-        margin-top: 65px;
+        margin-top: 25px;
     }
     .footer-tel {
         grid-area: tel;
